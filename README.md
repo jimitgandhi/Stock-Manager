@@ -1,5 +1,5 @@
 # Stock-Manager
-CodeShashtra Round-1
+A web application that gives trends and predicts prices of stocks (using a trained RNN network) based on the previous history and allows you to buy and sell stocks and other currencies with virtual money at real-time prices.
 
 ### Screenshots:
 
